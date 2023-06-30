@@ -1,4 +1,7 @@
-
+/*Calculator Program:
+* Write a Java program that acts as a simple calculator. It should take two numbers as input from the user 
+* and perform basic arithmetic operations (addition, subtraction, multiplication, division) on them. 
+*/    
 package practice1;
 import java.util.Scanner;
 
@@ -64,9 +67,6 @@ public class Practice1 {
         
         }else{
             System.out.print("INVALID INPUT!");
-        }
-        
-        
-    
+        }    
 }
 }
