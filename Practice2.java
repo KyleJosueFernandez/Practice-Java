@@ -1,5 +1,5 @@
 /* Guessing Game:
- * Create a Java program that generates a random number between 1 and 100. 
+ * A Java program that generates a random number between 1 and 100. 
  * The user should be prompted to guess the number. Provide feedback to 
  * the user if their guess is too high or too low. 
  * Continue the game until the user guesses the correct number.
